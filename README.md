@@ -1,4 +1,6 @@
-<h2 align="left">WHAT`S UP?</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=970000&center=true&random=false&width=435&lines=What%60s+up+bro+%3F;I%60m+Ilgar+Musayev;pov%3A+u%60re+unstoppable+%3A))](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=970000&center=true&random=false&width=435&lines=What%60s+up+bro+%3F;I%60m+Ilgar+Musayev;pov%3A+u%60re+unstoppable+%3A)" alt="Typing SVG" /></a>
 
 
 <div align="center">
