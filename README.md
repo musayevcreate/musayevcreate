@@ -72,10 +72,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-![snake gif](https://github.com/musayevcreate/musayevcreate/blob/output/github-contribution-grid-snake.gif)
-###
+![Snake animation](https://github.com/musayevcreate/musayevcreate/blob/output/github-contribution-grid-snake.svg)
