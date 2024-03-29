@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&size=45&pause=1000&color=970000&center=true&vCenter=true&random=false&width=460&height=45&lines=What%60s+up+bro+%3F;I%60m+Ilgar+Musayev;pov%3A+u%60re+unstoppable+%3A)" alt="Typing SVG" /></a>
 </div>
 <div align="center">
-  <
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musayevcreate&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
